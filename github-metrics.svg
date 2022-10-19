@@ -1343,7 +1343,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reduxjs/redux-thunk</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Thunk middleware for Redux</div>
@@ -1396,7 +1396,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>panva/jose</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">"JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.</div>
@@ -1449,7 +1449,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gitpod-io/openvscode-server</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.</div>
@@ -1502,7 +1502,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>encoredev/encore</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Encore is the Backend Development Engine helping developers escape the maze of complexity.</div>
@@ -1636,7 +1636,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Oct 2022, 13:57:04 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 19 Oct 2022, 14:53:36 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
