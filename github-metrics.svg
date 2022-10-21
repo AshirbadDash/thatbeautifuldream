@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker-library/rabbitmq</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker Official Image packaging for RabbitMQ</div>
@@ -1369,7 +1369,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iNeuron-Pvt-Ltd/neurolab-fastify</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1604,7 +1604,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Oct 2022, 06:39:19 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 21 Oct 2022, 09:12:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
