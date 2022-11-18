@@ -2,47 +2,53 @@
 
 ![gh-banner](https://user-images.githubusercontent.com/28717686/191666992-1004b8a9-173f-4575-b299-449dc0331949.png)
 
-
-- 🔭 I'm currently working on [Data Structures and Algorithms][course]
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm currently working with React, Material UI, ThreeJs and much more...
+- 🌱 I’m also currently learning cloud services and dev-ops
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love anime 🍿
 
-### :dizzy: Connect on Networks
+```js
+const name = 'Milind';
+
+Developer dev = new Developer(name);
+
+while(dev.isCoding())
+{
+  dev.listenToMusic();
+  dev.openStackOverFlow();
+  dev.drinkWater();
+}
+```
+
+## :dizzy: Connect on Networks
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
   </a>&ensp;
-
   <a href="https://twitter.com/dryruncatch/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
   </a>&ensp;
-  
   <a href="https://www.dev.to/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" target="_blank"/>
   </a>&ensp;
-
   <a href="https://www.npmjs.com/~milind-mishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" target="_blank"/>
   </a>&ensp;
-
   <a href="https://resume.github.io/?thatbeautifuldream">
     <img width="30px" src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-tile.svg" target="_blank"/>
   </a>&ensp;
-  
   <a href="https://www.instagram.com/thatbeautifuldream/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
-  
   <a href="https://www.youtube.com/milindmishra">
     <img width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" target="_blank"/>
   </a>&ensp;
-
 </div>
 
-### :zap: Recent GitHub Activity
+
+## :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 
@@ -53,7 +59,7 @@
 5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://milind.bio.link/" >
@@ -76,17 +82,7 @@
       <a href="https://milind.live"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
 </br></details>
 
-### 📺 Latest [YouTube Videos][youtube]
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Create an Impressive GitHub Profile README](https://ytcards.demolab.com/?id=Xoy_zhbHpEQ&title=Create+an+Impressive+GitHub+Profile+README&lang=en&timestamp=1666682808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1819 "Create an Impressive GitHub Profile README")](https://www.youtube.com/watch?v=Xoy_zhbHpEQ)
-[![Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://ytcards.demolab.com/?id=LQOyfyZ74Tw&title=Vite+Next+Generation+Frontend+Tooling+%7C+Faster+than+CRA+%7C+Getting+Started&lang=en&timestamp=1661869571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=251 "Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started")](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
-[![⚛️ Introduction to React Js | Installation using (create-react-app) tool](https://ytcards.demolab.com/?id=BnwEZTX27lk&title=%E2%9A%9B%EF%B8%8F+Introduction+to+React+Js+%7C+Installation+using+%28create-react-app%29+tool&lang=en&timestamp=1661811996&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=835 "⚛️ Introduction to React Js | Installation using (create-react-app) tool")](https://www.youtube.com/watch?v=BnwEZTX27lk)
-[![📣 I finally made the Resume!](https://ytcards.demolab.com/?id=S1PDiqI17Lw&title=%F0%9F%93%A3+I+finally+made+the+Resume%21&lang=en&timestamp=1661753331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2856 "📣 I finally made the Resume!")](https://www.youtube.com/watch?v=S1PDiqI17Lw)
-[![Building my Resume! w/ Latex? or Figma?](https://ytcards.demolab.com/?id=uRuzyTlb_9o&title=Building+my+Resume%21+w%2F+Latex%3F+or+Figma%3F&lang=en&timestamp=1661672974&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=3372 "Building my Resume! w/ Latex? or Figma?")](https://www.youtube.com/watch?v=uRuzyTlb_9o)
-[![flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai](https://ytcards.demolab.com/?id=Z7_e6FsuV2s&title=flatfinder+%7C+Team+%60MergeConflicts%60++%7C+NativeBase+%7C+iNeuron.ai&lang=en&timestamp=1656832546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=217 "flatfinder | Team `MergeConflicts`  | NativeBase | iNeuron.ai")](https://www.youtube.com/watch?v=Z7_e6FsuV2s)
-<!-- END YOUTUBE-CARDS -->
-
+## 📺 Latest [YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
 - [Create an Impressive GitHub Profile README](https://www.youtube.com/watch?v=Xoy_zhbHpEQ)
@@ -95,8 +91,6 @@
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 <!-- YOUTUBE:END -->
-
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default) -->
 
 ### Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
@@ -115,7 +109,7 @@
       <a href="https://discord.com/users/451669359866413076"><img src="https://lanyard.cnrad.dev/api/451669359866413076" /></a>
 </br></details>
 
-### 🧠 Blog posts
+## 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://blog.milind.live/price-tracker)
@@ -151,7 +145,7 @@ JSON         7 mins          ████▓░░░░░░░░░░░░
 
 
 [website]: https://milind.live/
-[twitter]: https://twitter.com/dryruncatch
+[twitter]: https://twitter.com/milindstwt
 [youtube]: https://youtube.com/milindmishra?sub_confirmation=1
-[instagram]: https://instagram.com/that_beautifuldream
+[instagram]: https://instagram.com/thatbeautifuldream
 [linkedin]: https://linkedin.com/in/milind--mishra
