@@ -1320,7 +1320,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BurntSushi/ripgrep</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</div>
@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/material-design-icons</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Material Design icons by Google</div>
@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Pradumnasaraf/DevOps</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo contains all my learning realted to DevOps tools like Kubernetes, Docker, etc.</div>
@@ -1607,7 +1607,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2022, 15:42:11 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 20 Nov 2022, 16:39:01 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
