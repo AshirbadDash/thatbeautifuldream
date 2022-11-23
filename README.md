@@ -92,7 +92,7 @@ while(dev.isCoding())
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 <!-- YOUTUBE:END -->
 
-### Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
+## Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
 <details>
     <summary>📊 Coding Chart </summary>
@@ -123,7 +123,7 @@ while(dev.isCoding())
 
 ![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)
 
-### 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
+## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
 ![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)
 
