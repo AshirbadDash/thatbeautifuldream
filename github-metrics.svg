@@ -1348,7 +1348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nginxinc/docker-nginx</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official NGINX Dockerfiles</div>
@@ -1401,7 +1401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukemorales/ubuntu-dev-setup</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script for installing all software and dependencies for web/mobile development</div>
@@ -1635,7 +1635,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2022, 15:42:39 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 1 Dec 2022, 16:39:29 (timezone Asia/Calcutta) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
