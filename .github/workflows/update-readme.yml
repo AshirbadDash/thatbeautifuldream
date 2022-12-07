@@ -1,4 +1,4 @@
-name: Update README Stats
+name: update-readme-stats
 
 on:
   schedule:
