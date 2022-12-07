@@ -109,7 +109,7 @@ while(dev.isCoding())
 
 ⚡️ [read more here...](https://blog.milind.live/)
 
-![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)
+[![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)](https://blog.milind.live)
 
 ## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
