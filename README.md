@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FD4EDD&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](http://in.milind.live)
 
-![gh-banner](https://user-images.githubusercontent.com/28717686/202702429-01ea794a-e9e2-4873-8ba0-254e49a60769.png)
+[![gh-banner](https://user-images.githubusercontent.com/28717686/202702429-01ea794a-e9e2-4873-8ba0-254e49a60769.png)](https://milind.bio.link)
 
 - 🔭 I'm currently working with React, Material UI, ThreeJs and much more...
 - 🌱 I’m also keen about diffrent cloud services and dev-ops best practices
@@ -57,7 +57,7 @@ while(dev.isCoding())
   </a>
 </div>
 
-![meetup](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)
+[![graduation-pik](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)](https://milind.bio.link)
 
 <div align="center">
   <a href="https://milind.bio.link/" >
