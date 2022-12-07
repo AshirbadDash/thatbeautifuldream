@@ -47,13 +47,6 @@ while(dev.isCoding())
   </a>&ensp;
 </div>
 
-
-## :zap: Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ## GitHub Stats
 
 <div align="center">
