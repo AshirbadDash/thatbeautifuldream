@@ -3,9 +3,9 @@
 ![gh-banner](https://user-images.githubusercontent.com/28717686/202702429-01ea794a-e9e2-4873-8ba0-254e49a60769.png)
 
 - 🔭 I'm currently working with React, Material UI, ThreeJs and much more...
-- 🌱 I’m also learning about cloud services and dev-ops
+- 🌱 I’m also keen about diffrent cloud services and dev-ops best practices
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: To contribute more to Open Source projects
 - ⚡ Fun fact: I love anime 🍿
 
 ```js
