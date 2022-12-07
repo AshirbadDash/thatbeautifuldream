@@ -52,11 +52,6 @@ while(dev.isCoding())
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#73](https://github.com/thatbeautifuldream/java-dsa-bootcamp/issues/73) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-2. 🎉 Merged PR [#71](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/71) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-3. 🎉 Merged PR [#70](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/70) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-4. 🎉 Merged PR [#68](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/68) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
-5. 🎉 Merged PR [#67](https://github.com/thatbeautifuldream/java-dsa-bootcamp/pull/67) in [thatbeautifuldream/java-dsa-bootcamp](https://github.com/thatbeautifuldream/java-dsa-bootcamp)
 <!--END_SECTION:activity-->
 
 ## GitHub Stats
