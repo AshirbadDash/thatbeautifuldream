@@ -67,8 +67,8 @@ while(dev.isCoding())
 
 <details>
     <summary>📊 More Metrics </summary>
-      <a href="https://milind.live"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
-</br></details>
+      <a href="https://metrics.lecoq.io/insights/thatbeautifuldream"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
+</details>
 
 ## 📺 Latest [YouTube Videos][youtube]
 
@@ -80,10 +80,10 @@ while(dev.isCoding())
 - [Building my Resume! w/ Latex? or Figma?](https://www.youtube.com/watch?v=uRuzyTlb_9o)
 <!-- YOUTUBE:END -->
 
-## Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
+## 👀 Work Related [`➡️ Check Resume`](https://milind.live/resume/in.pdf)
 
 <details>
-    <summary>📊 Coding Chart </summary>
+    <summary>📊 Dialy Coding Chart </summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/58e630dc-3fd2-4a17-b7ad-e631c90b7bb4.png" /></a>
 </br></details>
 
@@ -92,10 +92,6 @@ while(dev.isCoding())
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/558cb569-454a-4002-9ac7-41d99600101e.png" /></a>
 </br></details>
 
-<details>
-    <summary>📣 Discord Presence</summary>
-      <a href="https://discord.com/users/451669359866413076"><img src="https://lanyard.cnrad.dev/api/451669359866413076" /></a>
-</br></details>
 
 ## 🧠 Blog posts
 
