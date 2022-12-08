@@ -83,7 +83,7 @@ while(dev.isCoding())
 ## 👀 Work Related [`➡️ Check Resume`](https://milind.live/resume/in.pdf)
 
 <details>
-    <summary>📊 Dialy Coding Chart </summary>
+    <summary>📊 Coding Activity </summary>
       <a href="https://wakatime.com"><img src="https://wakatime.com/share/@milindmishra/58e630dc-3fd2-4a17-b7ad-e631c90b7bb4.png" /></a>
 </br></details>
 
