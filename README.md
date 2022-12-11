@@ -73,7 +73,7 @@ while(dev.isCoding())
 ## 📺 Latest [YouTube Videos][youtube]
 
 <!-- YOUTUBE:START -->
-- [Chill Stream [Sunday Feeling]](https://www.youtube.com/watch?v=_BDFdOoOl2E)
+- [A relaxing Sunday stream to help you de-stress!](https://www.youtube.com/watch?v=_BDFdOoOl2E)
 - [Create an Impressive GitHub Profile README](https://www.youtube.com/watch?v=Xoy_zhbHpEQ)
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
 - [⚛️ Introduction to React Js | Installation using &lpar;create-react-app&rpar; tool](https://www.youtube.com/watch?v=BnwEZTX27lk)
