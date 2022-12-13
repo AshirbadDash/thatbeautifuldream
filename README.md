@@ -51,7 +51,7 @@ while(dev.isCoding())
 ## GitHub Stats
 
 <!--START_SECTION:activity-->
-
+1. Activity
 <!--END_SECTION:activity-->
 
 <div align="center">
