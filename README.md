@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FD4EDD&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](http://in.milind.live)
 
-![gh-banner](https://user-images.githubusercontent.com/28717686/207213946-f8c7103d-bb54-4956-bd97-e8751199af2c.png)
+[![gh-banner](https://user-images.githubusercontent.com/28717686/207213946-f8c7103d-bb54-4956-bd97-e8751199af2c.png)][biolink]
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
