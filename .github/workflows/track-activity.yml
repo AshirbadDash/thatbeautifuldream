@@ -1,4 +1,4 @@
-name: Track Activity
+name: track-activity
 
 on:
   schedule:
