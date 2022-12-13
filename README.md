@@ -22,7 +22,7 @@ while(dev.isCoding())
 }
 ```
 
-## :dizzy: Connect on Networks
+## ✨ Connect on Networks
 
 <div align="center">
   <a href="https://www.linkedin.com/in/milind--mishra/">
