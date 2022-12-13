@@ -51,9 +51,9 @@ while(dev.isCoding())
 ## GitHub Stats
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
+2. 🗣 Commented on [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
+3. ❗️ Opened issue [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
 4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
