@@ -59,7 +59,7 @@ while(dev.isCoding())
   </a>
 </div>
 
-[![graduation-pik](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)](https://milind.bio.link)
+[![graduation-pik](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)][biolink]
 
 <div align="center">
   <a href="https://milind.bio.link/" >
@@ -72,7 +72,7 @@ while(dev.isCoding())
       <a href="https://metrics.lecoq.io/insights/thatbeautifuldream"><img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></a>
 </details>
 
-## 📺 Latest [YouTube Videos][youtube]
+## 📺 Latest from my [YouTube][youtube]
 
 <!-- YOUTUBE:START -->
 - [A relaxing Sunday stream to help you de-stress!](https://www.youtube.com/watch?v=_BDFdOoOl2E)
@@ -82,7 +82,7 @@ while(dev.isCoding())
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 <!-- YOUTUBE:END -->
 
-## 👀 Work Related [`➡️ Check Resume`](https://milind.live/resume/in.pdf)
+## 👀 Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
 <details>
     <summary>📊 Coding Activity </summary>
@@ -105,13 +105,13 @@ while(dev.isCoding())
 - [Getting Started 🔥](https://blog.milind.live/getting-started-js)
 <!-- BLOG-POST-LIST:END -->
 
-⚡️ [read more here...](https://blog.milind.live/)
+⚡️ [read more here...][blog]
 
-[![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)](https://blog.milind.live)
+[![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)][blog]
 
 ## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
-[![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)](https://milind.bio.link)
+[![snake animation](https://github.com/thatbeautifuldream/thatbeautifuldream/blob/output/github-contribution-grid-snake.svg)][biolink]
 
 <div align="center">
   <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=thatbeautifuldream" />
@@ -134,8 +134,10 @@ JSON         2 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[website]: https://milind.live/
+[website]: https://milind.live
+[blog]: https://blog.milind.live
 [twitter]: https://twitter.com/milindstwt
 [youtube]: https://youtube.com/milindmishra?sub_confirmation=1
 [instagram]: https://instagram.com/thatbeautifuldream
 [linkedin]: https://linkedin.com/in/milind--mishra
+[biolink]: https://milind.bio.link
