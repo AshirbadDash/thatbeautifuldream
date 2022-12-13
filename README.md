@@ -2,12 +2,13 @@
 
 ![gh-banner](https://user-images.githubusercontent.com/28717686/207213946-f8c7103d-bb54-4956-bd97-e8751199af2c.png)
 
-
-- 🔭 I'm currently working with React, Material UI, ThreeJs and much more...
-- 🌱 I’m also keen about diffrent cloud services and dev-ops best practices
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: To contribute more to Open Source projects
-- ⚡ Fun fact: I love anime 🍿
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
+2. 🗣 Commented on [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
+3. ❗️ Opened issue [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+<!--END_SECTION:activity-->
 
 ```js
 const name = 'Milind';
@@ -49,14 +50,6 @@ while(dev.isCoding())
 </div>
 
 ## GitHub Stats
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
-2. 🗣 Commented on [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
-3. ❗️ Opened issue [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
-4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-<!--END_SECTION:activity-->
 
 <div align="center">
   <a href="https://milind.bio.link/" >
