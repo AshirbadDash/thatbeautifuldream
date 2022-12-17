@@ -1,9 +1,9 @@
 ---
 # Build Settings
-markdown: kramdown
+# markdown: kramdown
 remote_theme: benbalter/retlab
-layout: default
-comments: true
+# layout: default
+# comments: true
 ---
 
 title: Milind Mishra
