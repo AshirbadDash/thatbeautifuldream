@@ -107,7 +107,7 @@ while(dev.isCoding())
 
 ⚡️ [read more here...][blog]
 
-[![blog-banner](https://user-images.githubusercontent.com/28717686/191738031-b2fc9961-ffd3-4195-b29c-138a5f83a2ec.png)][blog]
+[![blog-banner](https://user-images.githubusercontent.com/28717686/208219316-cfc9ad23-c821-4b0f-a0ce-086530f82eca.png)][blog]
 
 ## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
