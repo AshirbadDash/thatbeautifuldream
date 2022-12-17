@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FD4EDD&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](http://in.milind.live)
 
-[![gh-banner](https://user-images.githubusercontent.com/28717686/207213946-f8c7103d-bb54-4956-bd97-e8751199af2c.png)][biolink]
+[![header-banner](https://user-images.githubusercontent.com/28717686/208221376-885c7f74-a8dc-4b9b-a5be-c3bc70a7390e.png)][biolink]
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
@@ -59,7 +59,7 @@ while(dev.isCoding())
   </a>
 </div>
 
-[![graduation-pik](https://user-images.githubusercontent.com/28717686/208219770-75c8d1be-63a2-457e-ad0a-187ab40a6b32.png)][biolink]
+[![middle-banner](https://user-images.githubusercontent.com/28717686/208221400-8ee1da9a-227b-4621-a4c7-72673cb416ff.png)][biolink]
 
 <div align="center">
   <a href="https://milind.bio.link/" >
@@ -107,7 +107,7 @@ while(dev.isCoding())
 
 ⚡️ [read more here...][blog]
 
-[![blog-banner](https://user-images.githubusercontent.com/28717686/208219316-cfc9ad23-c821-4b0f-a0ce-086530f82eca.png)][blog]
+[![blog-banner](https://user-images.githubusercontent.com/28717686/208221409-ed359678-d3c2-44c6-9035-28a52ea9da7e.png)][blog]
 
 ## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
