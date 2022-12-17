@@ -59,7 +59,7 @@ while(dev.isCoding())
   </a>
 </div>
 
-[![graduation-pik](https://user-images.githubusercontent.com/28717686/191666971-9750e248-65ef-4f1c-9698-9a10183253a7.png)][biolink]
+[![graduation-pik](https://user-images.githubusercontent.com/28717686/208219770-75c8d1be-63a2-457e-ad0a-187ab40a6b32.png)][biolink]
 
 <div align="center">
   <a href="https://milind.bio.link/" >
