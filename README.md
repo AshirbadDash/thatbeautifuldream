@@ -2,12 +2,18 @@
 
 [![header-banner](https://user-images.githubusercontent.com/28717686/208221376-885c7f74-a8dc-4b9b-a5be-c3bc70a7390e.png)][biolink]
 
+[![blog-post-workflow](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml)
+[![deploy-gh-pages](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml)
+[![generate-contribution-snake](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml)
+[![pages-build-deployment](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment)
+[![update-waka-stats](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml)
+[![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
+
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#320](https://github.com/Figma-Linux/figma-linux/issues/320) in [Figma-Linux/figma-linux](https://github.com/Figma-Linux/figma-linux)
 2. 🗣 Commented on [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
 3. ❗️ Opened issue [#1378](https://github.com/libratbag/libratbag/issues/1378) in [libratbag/libratbag](https://github.com/libratbag/libratbag)
-4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
-5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
 <!--END_SECTION:activity-->
 
 ```js
