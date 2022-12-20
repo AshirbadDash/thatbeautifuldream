@@ -5,6 +5,7 @@
 [![blog-post-workflow](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml)
 [![deploy-gh-pages](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml)
 [![generate-contribution-snake](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/contrib-snake.yml)
+[![metrics](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/metrics.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/metrics.yml)
 [![pages-build-deployment](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages/pages-build-deployment)
 [![update-waka-stats](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/waka-stats.yml)
 [![update-youtube-videos](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/youtube-workflow.yml)
