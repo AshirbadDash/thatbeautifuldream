@@ -31,11 +31,10 @@ jobs:
           config_timezone: Asia/Calcutta
           plugin_chess: yes
           plugin_chess_animation: {
-  "size": 40,
-  "delay": 3,
-  "duration": 0.6
-}
-
+            "size": 40,
+            "delay": 3,
+            "duration": 0.6
+          }
           plugin_chess_platform: lichess.org
           plugin_chess_user: .user.login
           plugin_habits: yes
