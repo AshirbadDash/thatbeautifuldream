@@ -82,11 +82,11 @@ while(dev.isCoding())
 ## 📺 Latest from my [YouTube][youtube]
 
 <!-- YOUTUBE:START -->
-- [Badshah oh Badshah!](https://www.youtube.com/watch?v=D09lLjmD3Ys)
 - [A relaxing Sunday stream to help you de-stress!](https://www.youtube.com/watch?v=_BDFdOoOl2E)
 - [Create an Impressive GitHub Profile README](https://www.youtube.com/watch?v=Xoy_zhbHpEQ)
 - [Vite Next Generation Frontend Tooling | Faster than CRA | Getting Started](https://www.youtube.com/watch?v=LQOyfyZ74Tw)
 - [⚛️ Introduction to React Js | Installation using &lpar;create-react-app&rpar; tool](https://www.youtube.com/watch?v=BnwEZTX27lk)
+- [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 <!-- YOUTUBE:END -->
 
 ## 👀 Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
