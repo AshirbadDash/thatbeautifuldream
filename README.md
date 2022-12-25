@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FD4EDD&width=500&height=50&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hey+there+nice+to+see+you!;%F0%9F%93%A3+I'm+looking+for+full-time+roles;%F0%9F%92%A1+Click+to+get+my+LinkedIn)](http://in.milind.live)
 
-[![header-banner](https://user-images.githubusercontent.com/28717686/208221376-885c7f74-a8dc-4b9b-a5be-c3bc70a7390e.png)][biolink]
+[![header-banner](https://user-images.githubusercontent.com/28717686/209453568-8194e259-6492-4f3e-b7bb-20395c381f75.png)][biolink]
 
 [![blog-post-workflow](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/blog-post-workflow.yml)
 [![deploy-gh-pages](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml/badge.svg)](https://github.com/thatbeautifuldream/thatbeautifuldream/actions/workflows/pages.yml)
@@ -29,6 +29,8 @@ while(dev.isCoding())
   dev.drinkWater();
 }
 ```
+
+![notify-banner](https://user-images.githubusercontent.com/28717686/209453572-aa7523b5-2b30-43bc-87f4-ac2a2ad7edf0.png)
 
 ## ✨ Connect on Networks
 
