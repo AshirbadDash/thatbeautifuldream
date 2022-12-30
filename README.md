@@ -107,11 +107,11 @@ while(dev.isCoding())
 ## 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [useContext &amp; useReducer 🪝from component level state to global state!](https://blog.milind.live/usecontext-usereducer-from-component-level-state-to-global-state)
 - [useState &amp; useEffect 🪝 from counter to data fetching!](https://blog.milind.live/usestate-useeffect-from-counter-to-data-fetching)
 - [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://blog.milind.live/price-tracker)
 - [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://blog.milind.live/higher-order-functions-ii-and-beyond)
 - [Js Concepts 💊](https://blog.milind.live/js-concepts)
-- [👑 Higher Order Functions  &lpar;Part 1&rpar;](https://blog.milind.live/higher-order-functions-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ [read more here...][blog]
