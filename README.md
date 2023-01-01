@@ -30,7 +30,7 @@ while(dev.isCoding())
 }
 ```
 
-![notify-banner](https://user-images.githubusercontent.com/28717686/209453572-aa7523b5-2b30-43bc-87f4-ac2a2ad7edf0.png)
+![update-banner](https://user-images.githubusercontent.com/28717686/210162173-3ee23ba2-b62b-466a-9452-0053b0c55902.png)
 
 ## ✨ Connect on Networks
 
@@ -91,6 +91,9 @@ while(dev.isCoding())
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 <!-- YOUTUBE:END -->
 
+![setup-banner](https://user-images.githubusercontent.com/28717686/210162149-98e5716b-2c32-493e-ade2-b91392e40cfc.png)
+
+
 ## 👀 Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
 
 <details>
@@ -116,7 +119,7 @@ while(dev.isCoding())
 
 ⚡️ [read more here...][blog]
 
-[![blog-banner](https://user-images.githubusercontent.com/28717686/208221409-ed359678-d3c2-44c6-9035-28a52ea9da7e.png)][blog]
+[![blog-banner](https://user-images.githubusercontent.com/28717686/210162132-db3d10e2-975b-462e-94df-685d341640de.png)][blog]
 
 ## 👨🏻‍💻 Watch my contribution graph being eaten by 🐍
 
