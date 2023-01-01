@@ -91,7 +91,7 @@ while(dev.isCoding())
 - [📣 I finally made the Resume!](https://www.youtube.com/watch?v=S1PDiqI17Lw)
 <!-- YOUTUBE:END -->
 
-![setup-banner](https://user-images.githubusercontent.com/28717686/210162149-98e5716b-2c32-493e-ade2-b91392e40cfc.png)
+[![setup-banner](https://user-images.githubusercontent.com/28717686/210162149-98e5716b-2c32-493e-ade2-b91392e40cfc.png)][amazon]
 
 
 ## 👀 Work Related [`➡️ Resume`](https://milind.live/resume/in.pdf)
@@ -146,10 +146,11 @@ Other        3 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-[website]: https://milind.live
-[blog]: https://blog.milind.live
-[twitter]: https://twitter.com/milindstwt
+[website]: https://milind.live/
+[blog]: https://blog.milind.live/
+[twitter]: https://twitter.com/milindstwt/
 [youtube]: https://youtube.com/milindmishra?sub_confirmation=1
-[instagram]: https://instagram.com/thatbeautifuldream
-[linkedin]: https://linkedin.com/in/milind--mishra
-[biolink]: https://milind.bio.link
+[instagram]: https://instagram.com/thatbeautifuldream/
+[linkedin]: https://linkedin.com/in/milind--mishra/
+[biolink]: https://milind.bio.link/
+[amazon]: https://www.amazon.in/
