@@ -110,11 +110,11 @@ while(dev.isCoding())
 ## 🧠 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wait, so you&#39;re saying JavaScript isn&#39;t weird!](https://blog.milind.live/wait-so-youre-saying-javascript-isnt-weird)
 - [React Router v6 Basics &amp; Migration guide from v5](https://blog.milind.live/react-router-v6-basics-migration-guide-from-v5)
 - [useContext &amp; useReducer 🪝from component level state to global state!](https://blog.milind.live/usecontext-usereducer-from-component-level-state-to-global-state)
 - [useState &amp; useEffect 🪝 from counter to data fetching!](https://blog.milind.live/usestate-useeffect-from-counter-to-data-fetching)
 - [🛍 &lpar;Amazon.in&rpar; Price Tracker using Puppeteer](https://blog.milind.live/price-tracker)
-- [Higher Order Functions - &lpar;II&rpar; &amp; Beyond ⚡️](https://blog.milind.live/higher-order-functions-ii-and-beyond)
 <!-- BLOG-POST-LIST:END -->
 
 ⚡️ [read more here...][blog]
