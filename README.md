@@ -135,9 +135,9 @@ while(dev.isCoding())
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   19 hrs 43 mins  ████████████████████████░   96.65 %
-JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JavaScript   17 hrs 19 mins  ████████████████████████▓   98.01 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
